@@ -3,6 +3,6 @@
 
 nothing too shabby, just simple html code. 
 some fonts are licensed by google fonts, free to use.
-[site code inspired by](http://bettermotherfuckingwebsite.com/)
+[site code inspiration](http://bettermotherfuckingwebsite.com/)
 
 formerly hosted on infinityfree, moved to [cloudflare pages](https://pages.cloudflare.com/)
