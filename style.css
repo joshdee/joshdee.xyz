@@ -1,12 +1,32 @@
-body, html {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    overflow: hidden;
-    background: #111;
-    color: #ccc;
-    font-family: 'Atkinson Hyperlegible', sans-serif;
-}
+body {
+            margin: 40px auto;
+            max-width: 650px;
+            line-height: 1.6;
+            font-size: 18px;
+            background-color: #111111;
+            color: #ccc;
+            padding: 10px;
+            font-family: 'Atkinson Hyperlegible', sans-serif;
+        }
+        h1, h2 {
+            font-family: 'Atkinson Hyperlegible', sans-serif;
+            line-height: 1.5;
+        }
+        .textbox {
+            background-color: #444444;
+            padding: 10px;
+            color: white;
+        }
+        a:link {
+            color: lime;
+            background-color: transparent;
+            text-decoration: none;
+        }
+        a:visited {
+            color: cyan;
+            background-color: transparent;
+            text-decoration: none;
+        }
 
 #animated-background {
     position: absolute;
